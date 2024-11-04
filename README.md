@@ -18,7 +18,7 @@ Visualiza resultados y métricas de rendimiento
 Procesa información de profesores, materias, salones y horarios disponibles
 Prepara características para el modelo de optimización
 3. Modelo de Aprendizaje Automático
-Entrena un modelo (posiblemente Random Forest) para predecir asignaciones de horarios óptimas
+Entrena un modelo para predecir asignaciones de horarios óptimas
 Incluye funciones para auto-optimización de parámetros
 4. Generador de Horarios
 Utiliza el modelo entrenado para crear horarios escolares
