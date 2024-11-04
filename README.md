@@ -3,8 +3,10 @@ Parte del proyecto de grado para la creacion de las clases de las UTS
 
 
 
-Documentación del Sistema de Optimización de Horarios Adaptativos
-Descripción General
+Documentación del Sistema de Optimización de Horarios Adaptativos:
+
+Descripción General:
+
 Este sistema es una solución avanzada para la generación y optimización de las clases de la UTS. Utiliza técnicas de aprendizaje automático y optimización adaptativa para crear horarios eficientes que satisfacen múltiples restricciones y preferencias.
 
 Componentes Principales
